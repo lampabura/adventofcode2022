@@ -24,9 +24,6 @@ creates = [['W','P','G','Z','V','S','B'],
            ['G','L','N'],
            ['C','H','F','J']]
 
-
-['Z', 'V', 'P', 'Z', 'F', 'C', 'J', 'G', 'B', 'L']
-
 with open("inputs/day05_input.txt") as file:
     lines = [line.rstrip() for line in file]
 
